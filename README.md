@@ -1,6 +1,6 @@
 # Curso Maestro de Django 2: Desarrollo Web Backend
 
-<div style="text-align:center;margin-bottom:10px;"><a href="https://www.udemy.com/curso-django-2-practico-desarrollo-web-python-3/?password=django&couponCode=DJANGO2"><img src="/docs/img01.png" width="100%"/></a></div>
+<div style="text-align:center;margin-bottom:10px;"><a href="https://www.udemy.com/curso-django-2-practico-desarrollo-web-python-3/?password=django&couponCode=DJANGO2"><img src="/docs/img02.png" width="100%"/></a></div>
 
 Bienvenidos al [Curso Maestro de Django 2](https://www.udemy.com/curso-django-2-practico-desarrollo-web-python-3/?password=django&couponCode=DJANGO2), el framework web de referencia para desarrollar backends con Python.
 
