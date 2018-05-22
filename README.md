@@ -18,4 +18,4 @@ También aprenderás sobre el proceso de despliegue porque te enseñaré a publi
 
 **Únete aquí por $9.99**: [https://www.udemy.com/curso-django-2-practico-desarrollo-web-python-3/](https://www.udemy.com/curso-django-2-practico-desarrollo-web-python-3/?password=django&couponCode=DJANGO2)
 
-<div style="text-align:center;margin-bottom:10px;"><img src="/docs/01.jpg" width="100%"/></div>
+<div style="text-align:center;margin-bottom:10px;"><a href="https://www.udemy.com/curso-django-2-practico-desarrollo-web-python-3/?password=django&couponCode=DJANGO2"><img src="/docs/img01.png" width="100%"/></a></div>
