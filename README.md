@@ -16,4 +16,4 @@ Al finalizar las tres webs habrás desarrollado 10 apps de Django 2 listas para 
 
 También aprenderás sobre el proceso de despliegue porque te enseñaré a publicar tus proyectos en Internet utilizando un servicio gratuito y una sección de anexos donde encontrar enlaces de interés y tutoriales para seguir aprendiendo.
 
-Únete aquí por 9.99$: [https://www.udemy.com/curso-django-2-practico-desarrollo-web-python-3/](https://www.udemy.com/curso-django-2-practico-desarrollo-web-python-3/?password=django&couponCode=DJANGO2)
+**Únete aquí por $9.99**: [https://www.udemy.com/curso-django-2-practico-desarrollo-web-python-3/](https://www.udemy.com/curso-django-2-practico-desarrollo-web-python-3/?password=django&couponCode=DJANGO2)
