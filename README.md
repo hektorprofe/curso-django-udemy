@@ -12,8 +12,6 @@ Seré conciso y claro, el curso tiene un objetivo por encima de todo: aprender p
 
 * **[Web Playground](https://github.com/hcosta/web-playground-curso-django-2)**: un proyecto avanzado y de especialización, centrado puramente en el backend. Aquí aprenderás a manejar la autenticación y el registro de usuarios, a crear secciones internas sólo para usuarios identificados, perfiles de usuario y lo mejor de todo: un sistema de mensajería privada.
 
-Al finalizar las tres webs habrás desarrollado 10 apps de Django 2 listas para utilizar en tus futuros proyectos, con suficiente calidad para aplicar tanto en el ámbito personal como en el comercial.
+Al finalizar las tres webs habrás desarrollado 10 apps de Django listas para utilizar en tus futuros proyectos, con suficiente calidad para aplicar tanto en el ámbito personal como en el comercial.
 
 También aprenderás sobre el proceso de despliegue porque te enseñaré a publicar tus proyectos en Internet utilizando un servicio gratuito y una sección de anexos donde encontrar enlaces de interés y tutoriales para seguir aprendiendo.
-
-**Únete aquí por $9.99**: [https://www.udemy.com/curso-django-2-practico-desarrollo-web-python-3/](https://www.udemy.com/curso-django-2-practico-desarrollo-web-python-3/?password=django&couponCode=DJANGO2)
