@@ -1,4 +1,4 @@
-# Desarrollo web en Python con Django Rest Framework
+# Desarrollo web en Python con Django Framework
 
 Bienvenidos al [Curso Práctico de Django](https://www.udemy.com/curso-django-2-practico-desarrollo-web-python-3/), el framework web de referencia para desarrollar backends con Python.
 
