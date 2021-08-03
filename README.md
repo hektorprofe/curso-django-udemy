@@ -1,6 +1,6 @@
 # Desarrollo web en Python con Django Framework
 
-Bienvenidos al [Curso Práctico de Django](https://www.udemy.com/curso-django-2-practico-desarrollo-web-python-3/), el framework web de referencia para desarrollar backends con Python.
+Bienvenidos al [Curso Práctico de Django](www.hektorprofe.net/cupon/django), el framework web de referencia para desarrollar backends con Python.
 
 Me llamo Héctor, soy programador Python y este es mi segundo curso en Udemy relacionado con este lenguaje, y si bien el primero era sobre fundamentos, este se puede considerar como un sucesor enfocado en mi especialidad: la web backend. 
 
